@@ -1,2 +1,3 @@
 # odin-recipes
-My Second Repo for html
+This Repo is for html project which i will be writing
+using The Odin Project tutorials
